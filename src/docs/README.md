@@ -1,7 +1,7 @@
 ---
 title: Документація
 index: false
-icon: book
+icon: book1
 ---
 
 [![Testing Status](https://github.com/CrazyTapok-bit/tgWebValid/workflows/PHP%20CI/badge.svg)](https://github.com/CrazyTapok-bit/tgWebValid/actions)
